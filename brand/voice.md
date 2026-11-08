@@ -21,7 +21,8 @@ Write like a trusted local engineer talking to a neighbour: plain English, patie
 - Price-cutting: cheapest, deal, bargain, discount
 - Overpromises: 24/7, guaranteed same-day, instant
 - Scare words: deadly, killer, silent killer, explosion
-- Trade jargon without a plain-English explanation, such as "heat exchanger" or "flue gas analysis"
+- Trade jargon without a plain-English explanation, such as "heat exchanger" or "flue gas analysis". Write "CP12 gas safety certificate", not "CP12" alone.
+- Greetings that assume a religion, such as "Merry Christmas". Say "the holidays" or "the new year" instead.
 
 ## How we build trust
 
@@ -38,7 +39,7 @@ Copied word for word from our Google reviews, as shown on our website:
 
 - "Five star service from Daniel. Turned up when he said he would, explained everything clearly and left the place tidy. Thank you." – Sarah
 - "Great service from Brightwell Heating. Friendly, on time and the price was exactly as quoted. Would use again." – Tom
-- "Called about a leak on a Sunday and they came out and fixed it. Lovely, helpful engineer - very pleased" – Mark
+- "Called about a leak on a Sunday and they came out and fixed it. Lovely, helpful engineer - very pleased" – Mark (about an emergency leak, not a service: don't use it in service emails, where it can read as an emergency call-out offer)
 - "Brilliant work by Daniel and the team." – Priya
 - Our Google rating: 5-star rated on Google, from 75+ reviews. Check the rating is still 5.0 before each send; if it changes, update this line.
 - Other numbers only as minimums that stay true: 500+ jobs, 10+ years' experience.

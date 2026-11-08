@@ -9,11 +9,11 @@ If you were happy with the visit, a short Google review would mean a lot. It hel
 
 Here's one a customer left for us:
 
-"Called about a leak on a Sunday and they came out and fixed it. Lovely, helpful engineer - very pleased" – Mark
+"Brilliant work by Daniel and the team." – Priya
 
-If you're a landlord, I've noted your CP12 date, so I can remind you when next year's certificate is due.
+If I did your CP12 gas safety certificate on this visit, I've noted the date, so I can remind you when next year's is due.
 
-And if friends or family need their boiler serviced, they can book here:
+And if friends or family need their boiler serviced, they can use the link below. Like you, they'll get a written price, agreed before any work starts.
 
 [Book your service](https://brightwellheating.example/contact/) · Call or WhatsApp 07700900123
 

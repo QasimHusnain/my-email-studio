@@ -5,7 +5,7 @@ Hi {{first_name}},
 
 It's Daniel from Brightwell Heating. The coldest weeks of the year are nearly here, so this is my yearly reminder to get your boiler serviced.
 
-Nobody wants to wake up to a cold house in January, with no hot water for the children's baths or for an older relative who feels the cold. And in the middle of winter, waiting for an engineer or a part can take longer than anyone would like.
+Nobody wants to wake up to a cold house in January, with no hot water for the children's baths or for an older relative who feels the cold. If you're a landlord, nobody wants that call from a tenant either. And in the middle of winter, waiting for an engineer or a part can take longer than anyone would like.
 
 A yearly service now is the easy fix. I check your boiler over, clean what needs cleaning and make sure it's running safely, so it's ready for the cold. If you're a landlord, I can do your CP12 gas safety certificate on the same visit.
 
