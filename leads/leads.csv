@@ -1,0 +1,25 @@
+first_name,last_name,email,group,joined_on,consent
+Ayesha,Khan,ayesha.khan@example.com,families,2026-03-14,past customer
+Daniel,Hartley,daniel.hartley@example.com,families,2026-01-09,enquiry form
+Sana,Iqbal,sana.iqbal@example.com,families,2026-02-21,past customer
+Chloe,Whitaker,chloe.whitaker@example.com,families,2026-04-03,enquiry form
+Bilal,Hussain,bilal.hussain@example.com,families,2026-05-17,past customer
+Emma,Sutcliffe,emma.sutcliffe@example.com,families,2026-07-08,past customer
+Kamran,Akhtar,kamran.akhtar@example.com,families,2026-08-26,enquiry form
+Laura,Firth,laura.firth@example.com,families,2026-09-30,past customer
+Margaret,Holroyd,margaret.holroyd@example.com,older-relatives,2026-01-15,past customer
+Nasreen,Begum,nasreen.begum@example.com,older-relatives,2026-02-04,enquiry form
+Peter,Ackroyd,peter.ackroyd@example.com,older-relatives,2026-03-27,past customer
+Adam,Mahmood,adam.mahmood@example.com,older-relatives,2026-04-19,past customer
+Susan,Greenwood,susan.greenwood@example.com,older-relatives,2026-06-02,enquiry form
+Farhan,Siddiqui,farhan.siddiqui@example.com,older-relatives,2026-07-14,past customer
+Rachel,Barraclough,rachel.barraclough@example.com,older-relatives,2026-08-11,enquiry form
+Javed,Ali,javed.ali@example.com,older-relatives,2026-10-05,past customer
+Tom,Becker,tom.becker@example.com,landlords,2026-06-22,enquiry form
+Zahid,Rehman,zahid.rehman@example.com,landlords,2026-01-28,past customer
+Helen,Crowther,helen.crowther@example.com,landlords,2026-02-16,past customer
+Asif,Chaudhry,asif.chaudhry@example.com,landlords,2026-03-09,enquiry form
+Mark,Priestley,mark.priestley@example.com,landlords,2026-04-25,past customer
+Rubina,Shah,rubina.shah@example.com,landlords,2026-05-30,enquiry form
+Gareth,Illingworth,gareth.illingworth@example.com,landlords,2026-08-18,past customer
+Yasmin,Malik,yasmin.malik@example.com,landlords,2026-10-12,past customer
