@@ -73,11 +73,11 @@ Campaign weeks run Monday to Sunday. Sends go out on Tuesday mornings, when inbo
 | Prep | 9 Nov – 4 Dec | Write all four emails, in three group versions | Email | Draft in `campaigns/boiler-service-reminder/emails/`; brand review before sign-off | Not started |
 | Prep | 9 Nov – 4 Dec | Agree Christmas and New Year opening hours and diary space for about 100 visits | Ops | Daniel to confirm; emails must not promise dates we can't keep | Not started |
 | Prep | by 4 Dec | Test sends to our own address only; check links, phone number, footer | Email | Practice mode only; never real people | Not started |
-| 1 | 7 – 13 Dec | **Email 1: "Is your boiler ready for winter?"** Main reminder | Email, all groups | Send Tue 8 Dec | Not started |
-| 2 | 14 – 20 Dec | **Email 2: Friendly follow-up** with a review and the Gas Safe check link | Email, not yet booked | Send Tue 15 Dec. Checkpoint: 40+ bookings | Not started |
+| 1 | 7 – 13 Dec | **Email 1: "Is your boiler ready for winter?"** Main reminder | Email, all three groups (families, older relatives, landlords) | Send Tue 8 Dec | Not started |
+| 2 | 14 – 20 Dec | **Email 2: Friendly follow-up** with a review and the Gas Safe check link | Email, all three groups (families, older relatives, landlords), not yet booked only | Send Tue 15 Dec. Checkpoint: 50 bookings | Not started |
 | 3 | 21 – 27 Dec | **No send.** Christmas week (Fri 25, Sat 26 Dec) | — | Answer replies and calls; log bookings | — |
-| 4 | 28 Dec – 3 Jan | **Email 3: "Start the new year with a serviced boiler"** | Email, not yet booked | Send Tue 29 Dec, before New Year's Day | Not started |
-| 4 | 28 Dec – 3 Jan | **Email 4: Thank you and review request** | Email, booked and serviced | Send a few days after each visit, ongoing | Not started |
+| 4 | 28 Dec – 3 Jan | **Email 3: "Start the new year with a serviced boiler"** | Email, all three groups (families, older relatives, landlords), not yet booked only | Send Tue 29 Dec, before New Year's Day | Not started |
+| 2 – After | 15 Dec – 5 Jan | **Email 4: Thank you and review request** | Email, all three groups (families, older relatives, landlords), serviced since the last send only | Send Tue 15 Dec, Tue 29 Dec and Tue 5 Jan | Not started |
 | After | from 4 Jan | Campaign results report | Notes | Count bookings against the 100 goal | Not started |
 
 **Dependencies:**
@@ -94,7 +94,7 @@ Campaign weeks run Monday to Sunday. Sends go out on Tuesday mornings, when inbo
 | Email 1, three versions | Honest winter picture for that group, why a yearly service helps, Daniel by name, written price before work, one review, "Book your service" plus phone/WhatsApp | Must-have | 1 Dec |
 | Email 2, three versions | Short and friendly; one different review; link to check Gas Safe No. 000000; same action | Must-have | 8 Dec |
 | Email 3, three versions | New-year angle; the coldest weeks are still ahead; same action; mention opening hours | Must-have | 22 Dec |
-| Email 4, one version | Thank you from Daniel; link to leave a Google review | Nice-to-have | 22 Dec |
+| Email 4, three versions | Thank you from Daniel; link to leave a Google review; landlord version confirms their CP12 date is on record for next year | Nice-to-have | 8 Dec |
 | Subject lines | Two options per email for a simple A/B test on Email 1 | Nice-to-have | 1 Dec |
 | Booking log | Simple sheet in `notes/`: name, group, date booked, how they booked (form, phone, WhatsApp), CP12 yes/no | Must-have | 4 Dec |
 | Phone and WhatsApp script | One line to ask "Was it our email that reminded you?" | Must-have | 4 Dec |
@@ -142,7 +142,7 @@ No spend on ads, design agencies or print.
 | Risk | What could happen | Mitigation |
 |---|---|---|
 | **Christmas timing** | Weeks 3 and 4 fall over Christmas and New Year, when people are busy and away | No send in Christmas week; Email 3 goes before New Year's Day; front-load effort into weeks 1 and 2 |
-| **Behind target** | Fewer than 40 bookings by 20 December | Look at which group is booking least and rewrite their Email 3; consider a short personal follow-up call to landlords whose CP12 is due |
+| **Behind target** | Fewer than 50 bookings by 20 December | Look at which group is booking least and rewrite their Email 3; consider a short personal follow-up call to landlords whose CP12 is due |
 | **Too many bookings at once** | More requests than Daniel can fit in, leading to long waits | Agree diary capacity in prep; never promise same-day; offer the next available date honestly |
 | **Brand slip** | An email uses pressure words, a price, or a reworded review | Run every email through a brand review against `brand/voice.md` before sign-off |
 | **Sending to the wrong people** | A test email reaches real customers | Test only in practice mode to our own address; the real list is never used in testing |
@@ -159,5 +159,5 @@ No spend on ads, design agencies or print.
 
 **Decision points:**
 
-- 20 December: if under 40 bookings, change the Email 3 approach.
+- 20 December: if under 50 bookings, change the Email 3 approach.
 - 4 January: decide whether to run a second round for the rest of January.
