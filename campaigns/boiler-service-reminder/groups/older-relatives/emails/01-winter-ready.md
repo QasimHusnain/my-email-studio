@@ -1,4 +1,4 @@
-Subject: Is your boiler ready for winter?
+Subject: A warm, ready home for the coldest weeks
 Preview: A yearly service now means fewer cold surprises in January.
 
 Hi {{first_name}},
