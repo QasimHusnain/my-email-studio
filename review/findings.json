@@ -1,0 +1,19 @@
+{
+  "folder": "campaigns/test-bad",
+  "findings": [
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 10,
+      "severity": "high",
+      "problem": "Still not fixed: \"Last chance – only 3 slots left this week.\" is pressure and countdown wording (\"only X slots left\"), which brand/voice.md bans.",
+      "fix": "Delete the line, or swap in an honest, calm line such as \"Booking before the coldest weeks means less waiting if something needs fixing.\""
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 20,
+      "severity": "medium",
+      "problem": "Still not fixed: there's a second link, [Get a quote](https://brightwellheating.example/). .claude/rules/emails.md requires exactly one main link.",
+      "fix": "Remove the \"Get a quote\" link so the line reads: [Book your service](https://brightwellheating.example/contact/) · Call or WhatsApp 07700900123"
+    }
+  ]
+}
