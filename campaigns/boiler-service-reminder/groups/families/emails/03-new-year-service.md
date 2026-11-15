@@ -9,7 +9,7 @@ The coldest weeks usually come in January and February, when your boiler works h
 
 I'm Daniel, a local Gas Safe registered engineer with 10+ years' experience and 500+ jobs behind me. You'll get a written price, agreed before any work starts.
 
-"Brilliant work by Daniel and the team." – Priya
+"Five star service from Daniel. Turned up when he said he would, explained everything clearly and left the place tidy. Thank you." – Sarah
 
 Our usual opening hours are Monday to Friday 7:30am to 8pm, Saturday 8am to 8pm and Sunday 8:30am to 8pm.
 
