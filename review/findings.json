@@ -1,26 +1,4 @@
 {
   "folder": "campaigns/boiler-service-reminder",
-  "findings": [
-    {
-      "file": "campaigns/boiler-service-reminder/groups/landlords/emails/02-friendly-follow-up.md",
-      "line": 14,
-      "severity": "low",
-      "problem": "Landlords get Tom's review in both email 01 and email 02. plan.md says email 2 should use 'one different review', so the same readers see the same quote twice.",
-      "fix": "Use Sarah's or Priya's approved review here instead, copied word for word."
-    },
-    {
-      "file": "campaigns/boiler-service-reminder/groups/families/emails/04-thank-you-review.md",
-      "line": 14,
-      "severity": "low",
-      "problem": "Says 'If I did your CP12 gas safety certificate on this visit…' in the families copy. CP12 is for landlords, and plan.md only asks for this line in the landlord version of email 04.",
-      "fix": "Remove the CP12 sentence from the families copy."
-    },
-    {
-      "file": "campaigns/boiler-service-reminder/groups/older-relatives/emails/04-thank-you-review.md",
-      "line": 14,
-      "severity": "low",
-      "problem": "Says 'If I did your CP12 gas safety certificate on this visit…' in the older-relatives copy. CP12 is for landlords, and plan.md only asks for this line in the landlord version of email 04.",
-      "fix": "Remove the CP12 sentence from the older-relatives copy."
-    }
-  ]
+  "findings": []
 }

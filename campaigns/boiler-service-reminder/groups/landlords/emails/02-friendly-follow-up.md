@@ -11,7 +11,7 @@ Before I come round, you can check I'm Gas Safe registered. My number is 000000,
 
 Here's what one customer said:
 
-"Great service from Brightwell Heating. Friendly, on time and the price was exactly as quoted. Would use again." – Tom
+"Brilliant work by Daniel and the team." – Priya
 
 As always, you'll get a written price, agreed before any work starts.
 

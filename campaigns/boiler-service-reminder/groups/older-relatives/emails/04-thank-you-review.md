@@ -11,8 +11,6 @@ Here's one a customer left for us:
 
 "Brilliant work by Daniel and the team." – Priya
 
-If I did your CP12 gas safety certificate on this visit, I've noted the date, so I can remind you when next year's is due.
-
 And if friends or family need their boiler serviced, they can use the link below. Like you, they'll get a written price, agreed before any work starts.
 
 [Book your service](https://brightwellheating.example/contact/) · Call or WhatsApp 07700900123

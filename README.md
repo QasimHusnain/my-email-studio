@@ -2,7 +2,7 @@
 
 **Author:** Qasim Husnain
 **Course:** Email Studio Lab (assignment FDE-102), The AI Agent Factory FDE Fast Track
-**Progress:** Steps 1 to 13 done
+**Progress:** All 15 steps done, including the stretch step
 
 This is an email marketing studio run with Claude Code, built without writing code by hand. Claude plans a campaign, writes the emails, personalizes them for each group of customers, and sends them safely to a practice email server. Every send passes through a guard that blocks real people.
 
@@ -40,7 +40,7 @@ The assignment's examples use the sample brand Kettlebird Tea. The course allows
 
 | Step | What it covers | Where to look |
 |---|---|---|
-| 1. Look before you build | Researching existing skills and plugins before building | `.claude/settings.json` (marketing plugin) |
+| 1. Look before you build | Researching existing skills and plugins before building, and deciding which to trust | `notes/skills-i-chose.md` |
 | 2. Set up your studio | Folders and the studio's rules | `CLAUDE.md`, `brand/`, `leads/`, `campaigns/`, `notes/` |
 | 3. Your brand voice | How the brand sounds, the claims it must never make, and the approved reviews | `brand/voice.md` (loaded through `@brand/voice.md` in `CLAUDE.md`) |
 | 4. Plan the campaign | Goals, audience, schedule and checkpoints | `campaigns/boiler-service-reminder/plan.md` |
@@ -53,8 +53,17 @@ The assignment's examples use the sample brand Kettlebird Tea. The course allows
 | 11. Practice launch | Each group's email 01 sent to `delivered@resend.dev` | Practice server (not stored in the repo) |
 | 12. Resume and fork | Two subject line angles worked on in parallel, then a handoff note | `notes/angle-a.md`, `notes/angle-b.md`, `notes/handoff.md` |
 | 13. Automatic review | Headless Claude review that returns JSON matching a schema | `scripts/review.mjs`, `review/findings.schema.json`, `review/findings.json`, `campaigns/test-bad/` |
+| 14. Package your studio kit | The reusable parts (personalize skill, send guard, email reviewer agent, review script) packaged as a plugin, then tested on a second made-up client, Rise & Crumb bakery | `studio-kit/` and `client-two/`, two separate git repos kept next to this one (see below) |
+| 15. What customers love (stretch) | 120 made-up practice reviews read by a subagent that writes a scratchpad as it goes, so findings survive `/compact` | `notes/reviews/`, `notes/scratchpad.md` |
 
-Step 14 (packaging a plugin) and step 15 (stretch) are not done yet.
+### Step 14: studio-kit and client-two
+
+Step 14 builds two folders next to this studio, each with its own git repo:
+
+- `studio-kit/`: the plugin. It holds only reusable parts and uses `${CLAUDE_PLUGIN_ROOT}` for paths. `claude plugin validate` passes, and it mentions no client by name.
+- `client-two/`: a second made-up client, Rise & Crumb bakery, with its own brand voice, leads, email rule and campaign. It is run with `claude --plugin-dir ../studio-kit`.
+
+Brand voice, leads, campaigns and rules stay in each client's own repo, because they belong to that client. Only the tools travel in the plugin.
 
 ## What's inside
 
@@ -71,7 +80,8 @@ my-email-studio/
 │   │   ├── emails/            4 emails
 │   │   └── groups/            a copy of each email for each lead group
 │   └── test-bad/              a deliberately bad email to prove the review works
-├── notes/                     subject line angles and handoff note
+├── notes/                     skills research, subject line angles, handoff note,
+│                              practice reviews and the review scratchpad
 ├── .claude/
 │   ├── settings.json          shared settings: plugin and the send-guard hook
 │   ├── rules/emails.md        rules for campaigns/**/emails/*.md
