@@ -1,19 +1,26 @@
 {
-  "folder": "campaigns/test-bad",
+  "folder": "campaigns/boiler-service-reminder",
   "findings": [
     {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 10,
-      "severity": "high",
-      "problem": "Still not fixed: \"Last chance – only 3 slots left this week.\" is pressure and countdown wording (\"only X slots left\"), which brand/voice.md bans.",
-      "fix": "Delete the line, or swap in an honest, calm line such as \"Booking before the coldest weeks means less waiting if something needs fixing.\""
+      "file": "campaigns/boiler-service-reminder/groups/landlords/emails/02-friendly-follow-up.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "Landlords get Tom's review in both email 01 and email 02. plan.md says email 2 should use 'one different review', so the same readers see the same quote twice.",
+      "fix": "Use Sarah's or Priya's approved review here instead, copied word for word."
     },
     {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 20,
-      "severity": "medium",
-      "problem": "Still not fixed: there's a second link, [Get a quote](https://brightwellheating.example/). .claude/rules/emails.md requires exactly one main link.",
-      "fix": "Remove the \"Get a quote\" link so the line reads: [Book your service](https://brightwellheating.example/contact/) · Call or WhatsApp 07700900123"
+      "file": "campaigns/boiler-service-reminder/groups/families/emails/04-thank-you-review.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "Says 'If I did your CP12 gas safety certificate on this visit…' in the families copy. CP12 is for landlords, and plan.md only asks for this line in the landlord version of email 04.",
+      "fix": "Remove the CP12 sentence from the families copy."
+    },
+    {
+      "file": "campaigns/boiler-service-reminder/groups/older-relatives/emails/04-thank-you-review.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "Says 'If I did your CP12 gas safety certificate on this visit…' in the older-relatives copy. CP12 is for landlords, and plan.md only asks for this line in the landlord version of email 04.",
+      "fix": "Remove the CP12 sentence from the older-relatives copy."
     }
   ]
 }
