@@ -57,7 +57,7 @@ The easiest way to get this right is to start from the original text and edit it
 
 1. **The opening line**: the first paragraph after the greeting. Rewrite it so it speaks to the group, while keeping its job (for example, Daniel introducing himself and saying why he's writing).
 2. **One example**: one sentence or short paragraph in the body that pictures the reader's situation. Pick the one that most clearly describes a particular household. If a paragraph already lists several kinds of reader ("children's baths… an older relative… a landlord"), that is the one to change, narrowed to this group. Change one example only, even if others could be tuned too.
-3. **The review**: if the plan's "Suggested review per group" names a review for this group and it passed the Step 2 check, replace the original's review line with it, copied word for word from `brand/voice.md`, including the quote marks, dash and first name. If the plan names none for this group, keep the original's review.
+3. **The review, in the first email only**: in the first email of the campaign (the lowest-numbered file in `emails/`, such as `01-...md`), if the plan's "Suggested review per group" names a review for this group and it passed the Step 2 check, replace the original's review line with it, copied word for word from `brand/voice.md`, including the quote marks, dash and first name. If the plan names none for this group, keep the original's review. In every later email, keep the original's review exactly, so each send brings a different review as the plan intends.
 4. **Lines meant for another group**: any sentence elsewhere in the body that opens by naming a different kind of reader, such as "If you're a landlord, I can do your CP12 gas safety certificate on the same visit."
    - For a group it doesn't fit, delete just that sentence. Leave the rest of the paragraph as it is.
    - For the group it names, rewrite it to speak to them directly, without the "If you're a…" opening. For landlords: "I can do your yearly CP12 gas safety certificate on the same visit, so the service and the certificate are done together."
@@ -83,7 +83,7 @@ Every change must still follow `brand/voice.md`:
 - No scare words (deadly, killer, silent killer, explosion), no carbon monoxide stories, and no claim that a boiler is dangerous. Take extra care with older-relatives: reassure, don't worry.
 - Always write "CP12 gas safety certificate" in full. Never "CP12" alone.
 - No religious greetings such as "Merry Christmas". Say "the holidays" or "the new year".
-- No new claims, numbers, accreditations or reviews. Use only the original's review or the plan's review for this group (change 3), always word for word from the approved list, and never Mark's in a service email.
+- No new claims, numbers, accreditations or reviews. Use only the original's review or, in the first email, the plan's review for this group (change 3), always word for word from the approved list, and never Mark's in a service email.
 
 If a change breaks a rule, rewrite the change. Never bend the rule.
 
@@ -94,7 +94,7 @@ For every copy, compare it with the original line by line before you call Write:
 1. **Subject**: identical.
 2. **Preview**: identical.
 3. **Link and phone line**: identical, and still the only link in the body.
-4. **Review**: the plan's review for this group if it names one, otherwise the original's. Either way, on the approved list word for word and not Mark's.
+4. **Review**: in the first email, the plan's review for this group if it names one, otherwise the original's. In every later email, identical to the original's. Either way, on the approved list word for word and not Mark's.
 5. **Sign-off and footer**: identical, from `Thanks,` to the last line.
 6. **Only the allowed changes**: apart from the opening line, the one example, the review and lines meant for another group (Step 3), every line matches the original. No sentence that names a different kind of reader (such as "If you're a landlord") is left in the copy.
 7. **Brand check**: the changed parts pass every rule in Step 4, including "CP12 gas safety certificate" in full.

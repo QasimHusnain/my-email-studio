@@ -3,9 +3,9 @@ Preview: Still on your to-do list? A local engineer, and a written price before 
 
 Hi {{first_name}},
 
-Just a short follow-up to my email last week. I know family life keeps you busy, so if booking your boiler service is still on your to-do list, I'm happy to help.
+Just a short follow-up to my email last week. I know a busy family home leaves little spare time, so if booking your boiler service is still on your to-do list, I'm happy to help.
 
-A service now keeps your home warm and the hot water running for bath times and busy school mornings through the cold weeks ahead.
+A service now keeps the house warm and the hot water running for bath time through the cold weeks ahead.
 
 Before I come round, you can check I'm Gas Safe registered. My number is 000000, and the link at the bottom of this email takes you straight to the Gas Safe Register.
 

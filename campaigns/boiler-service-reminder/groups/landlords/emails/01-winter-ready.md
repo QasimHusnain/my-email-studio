@@ -3,9 +3,9 @@ Preview: A yearly service now means fewer cold surprises in January.
 
 Hi {{first_name}},
 
-It's Daniel from Brightwell Heating. Winter is when tenants rely on their heating most, so this is my yearly reminder to get your boiler serviced before the coldest weeks.
+It's Daniel from Brightwell Heating. Winter is when tenants rely on their heating most, so this is my yearly reminder to get the boiler in your rented home serviced.
 
-Nobody wants that call from a tenant on a January morning, saying the house is cold and there's no hot water. And in the middle of winter, waiting for an engineer or a part can take longer than anyone would like.
+Nobody wants that call from a tenant on a cold January morning, with no heating or hot water in the house. And in the middle of winter, waiting for an engineer or a part can take longer than anyone would like.
 
 A yearly service now is the easy fix. I check your boiler over, clean what needs cleaning and make sure it's running safely, so it's ready for the cold. I can do your yearly CP12 gas safety certificate on the same visit, so the service and the certificate are done together.
 

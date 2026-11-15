@@ -3,9 +3,9 @@ Preview: Still on your to-do list? A local engineer, and a written price before 
 
 Hi {{first_name}},
 
-Just a short follow-up to my email last week. If booking a boiler service for a parent or grandparent is still on your to-do list, I'm happy to help.
+Just a short follow-up to my email last week. Looking after a parent or grandparent keeps you busy, so if booking your boiler service is still on your to-do list, I'm happy to help.
 
-A service now helps keep their home warm and comfortable, with the hot water running, through the cold weeks ahead, so you can have peace of mind.
+A service now helps keep your loved one warm and comfortable, with the hot water running, through the cold weeks ahead.
 
 Before I come round, you can check I'm Gas Safe registered. My number is 000000, and the link at the bottom of this email takes you straight to the Gas Safe Register.
 

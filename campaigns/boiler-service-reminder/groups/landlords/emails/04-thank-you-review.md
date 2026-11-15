@@ -3,7 +3,7 @@ Preview: Thanks for having me round. Could you spare a minute to say how it went
 
 Hi {{first_name}},
 
-Thank you for having me round to service the boiler at your property. I hope everything is running nicely and your tenants stay warm through the winter.
+Thank you for having me round to service the boiler at your rented home. I hope everything is running nicely and your tenants stay warm through the winter.
 
 If you were happy with the visit, a short Google review would mean a lot. It helps other local landlords find an engineer they can rely on. The "read our 75+ reviews" link at the bottom of this email takes you to our Google page, where you can leave yours.
 

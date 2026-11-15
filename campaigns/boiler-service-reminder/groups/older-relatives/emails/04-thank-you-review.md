@@ -3,9 +3,9 @@ Preview: Thanks for having me round. Could you spare a minute to say how it went
 
 Hi {{first_name}},
 
-Thank you for having me round to service the boiler. I hope everything is running nicely and your loved one stays warm and comfortable through the winter.
+Thank you for having me round to service your boiler. I hope everything is running nicely and your loved one stays warm and comfortable through the winter.
 
-If you were happy with the visit, a short Google review would mean a lot. It helps other local families looking after a loved one find an engineer they can rely on. The "read our 75+ reviews" link at the bottom of this email takes you to our Google page, where you can leave yours.
+If you were happy with the visit, a short Google review would mean a lot. It helps other families caring for a loved one find an engineer they can rely on. The "read our 75+ reviews" link at the bottom of this email takes you to our Google page, where you can leave yours.
 
 Here's one a customer left for us:
 

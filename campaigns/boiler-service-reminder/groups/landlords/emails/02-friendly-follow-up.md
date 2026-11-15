@@ -3,9 +3,9 @@ Preview: Still on your to-do list? A local engineer, and a written price before 
 
 Hi {{first_name}},
 
-Just a short follow-up to my email last week. If booking the boiler service for your rental property is still on your to-do list, I'm happy to help.
+Just a short follow-up to my email last week. If booking the boiler service for your rented home is still on your to-do list, I'm happy to help.
 
-A service now helps keep your tenants warm and their hot water running through the cold weeks ahead. I can do your CP12 gas safety certificate on the same visit.
+A service now keeps your tenants warm and their hot water running through the cold weeks ahead. You can have your yearly CP12 gas safety certificate done on the same visit, so the service and the certificate are done together.
 
 Before I come round, you can check I'm Gas Safe registered. My number is 000000, and the link at the bottom of this email takes you straight to the Gas Safe Register.
 

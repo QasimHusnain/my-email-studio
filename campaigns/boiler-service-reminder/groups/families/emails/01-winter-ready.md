@@ -3,9 +3,9 @@ Preview: A yearly service now means fewer cold surprises in January.
 
 Hi {{first_name}},
 
-It's Daniel from Brightwell Heating. With little ones at home, a warm house matters more than ever, so this is my yearly reminder to get your boiler serviced before the coldest weeks.
+It's Daniel from Brightwell Heating. With little ones at home, a warm house matters more than ever, so this is my yearly reminder to get your boiler serviced.
 
-Nobody wants to wake up to a cold house on a January morning, with no hot water for bath time and the children to get ready for school. And in the middle of winter, waiting for an engineer or a part can take longer than anyone would like.
+Nobody wants to wake up to a cold house in January, with no hot water for the children's baths before school. And in the middle of winter, waiting for an engineer or a part can take longer than anyone would like.
 
 A yearly service now is the easy fix. I check your boiler over, clean what needs cleaning and make sure it's running safely, so it's ready for the cold.
 
