@@ -60,8 +60,8 @@ The assignment's examples use the sample brand Kettlebird Tea. The course allows
 
 Step 14 builds two folders next to this studio, each with its own git repo:
 
-- `studio-kit/`: the plugin. It holds only reusable parts and uses `${CLAUDE_PLUGIN_ROOT}` for paths. `claude plugin validate` passes, and it mentions no client by name.
-- `client-two/`: a second made-up client, Rise & Crumb bakery, with its own brand voice, leads, email rule and campaign. It is run with `claude --plugin-dir ../studio-kit`.
+- `studio-kit/` (https://github.com/QasimHusnain/studio-kit): the plugin. It holds only reusable parts and uses `${CLAUDE_PLUGIN_ROOT}` for paths. `claude plugin validate` passes, and it mentions no client by name.
+- `client-two/` (https://github.com/QasimHusnain/client-two): a second made-up client, Rise & Crumb bakery, with its own brand voice, leads, email rule and campaign. It is run with `claude --plugin-dir ../studio-kit`.
 
 Brand voice, leads, campaigns and rules stay in each client's own repo, because they belong to that client. Only the tools travel in the plugin.
 
