@@ -1,0 +1,46 @@
+# 1. The name shown in GitHub's Actions tab and on the PR
+name: Brand review
+
+# 2. When to run: on pull requests that change these files
+on:
+  pull_request:
+    paths:
+      - "campaigns/**"        # any email or plan
+      - "brand/**"            # the voice rules changed
+      - ".claude/rules/**"    # the email rules changed
+      - "scripts/review.mjs"  # the review itself changed
+
+# 3. What to do
+jobs:
+  review:                     # the job's id (any name you like)
+    runs-on: ubuntu-latest    # borrow a fresh Linux runner
+    timeout-minutes: 15       # stop it if something hangs
+    steps:
+      # The runner starts empty, so first download your repo
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      # Your script needs Node 22+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Install Claude Code on the runner
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      # The actual review. The secret becomes an environment variable,
+      # and Claude Code reads it to log in as you.
+      - name: Review the campaign
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: node scripts/review.mjs campaigns/boiler-service-reminder
+
+      # Keep findings.json so you can download it, even when the review fails
+      - name: Save the findings
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: findings
+          path: review/findings.json
